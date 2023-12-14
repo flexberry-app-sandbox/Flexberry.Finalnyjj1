@@ -87,13 +87,13 @@ export let defineProjections = function (modelClass) {
     номерПас: attr('Номер паспорта', { index: 5 }),
     организации: belongsTo('i-i-s-finalnyjj-организации', 'Организация', {
       наименование: attr('Организация', { index: 6, hidden: true })
-    }, { index: -1, hidden: true }),
+    }, { index: 10, hidden: true }),
     должности: belongsTo('i-i-s-finalnyjj-должности', 'Должность', {
       наименование: attr('Должность', { index: 7, hidden: true })
-    }, { index: -1, hidden: true }),
+    }, { index: 9, hidden: true }),
     отделы: belongsTo('i-i-s-finalnyjj-отделы', 'Отдел', {
       наименование: attr('Отдел', { index: 8, hidden: true })
-    }, { index: -1, hidden: true })
+    }, { index: 11, hidden: true })
   });
 
   modelClass.defineProjection('СотрудникиL', 'i-i-s-finalnyjj-сотрудники', {

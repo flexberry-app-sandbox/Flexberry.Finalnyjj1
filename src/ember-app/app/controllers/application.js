@@ -28,31 +28,31 @@ export default Controller.extend({
             link: 'i-i-s-finalnyjj-должности-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-должности-l.title'),
-            icon: 'phone',
+            icon: 'tags',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-сотрудники-l.title'),
-            icon: 'suitcase',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-организации-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-организации-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-организации-l.title'),
-            icon: 'edit',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-расчетный-лист-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-расчетный-лист-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-расчетный-лист-l.title'),
-            icon: 'calendar',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-отделы-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-отделы-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-отделы-l.title'),
-            icon: 'address card',
+            icon: 'folder',
             children: null
           }]
         }

@@ -1,5 +1,30 @@
 ﻿{
-  "propertyLookup": [],
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Должности",
+      "projection": "ДолжностиL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организации",
+      "projection": "ОрганизацииL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Отделы",
+      "projection": "ОтделыL",
+      "detailModelName": null
+    }
+  ],
   "external": false,
   "caption": "Сотрудники",
   "name": "IISFinalnyjjСотрудникиE",

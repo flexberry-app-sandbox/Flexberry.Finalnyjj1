@@ -142,7 +142,7 @@
               "index": 6
             }
           ],
-          "index": -1,
+          "index": 10,
           "type": "default",
           "caption": "Организация",
           "name": "организации",
@@ -163,7 +163,7 @@
               "index": 7
             }
           ],
-          "index": -1,
+          "index": 9,
           "type": "default",
           "caption": "Должность",
           "name": "должности",
@@ -184,7 +184,7 @@
               "index": 8
             }
           ],
-          "index": -1,
+          "index": 11,
           "type": "default",
           "caption": "Отдел",
           "name": "отделы",
