@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-finalnyjj-организации-e",
+  "editForm": "i-i-s-finalnyjj-организации-e",
+  "external": false,
+  "caption": "Организации",
+  "name": "IISFinalnyjjОрганизацииL",
+  "className": "ОрганизацииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-finalnyjj-организации",
+      "modelProjection": "ОрганизацииL"
+    }
+  ]
+}
